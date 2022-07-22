@@ -1,0 +1,119 @@
+.list-item:first-child {
+  position: fixed;
+  list-style-type: none;
+  top: 25px;
+  left: 350px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow", sans-serif;
+}
+
+.list-item:nth-child(2) {
+  position: fixed;
+  list-style-type: none;
+  top: 25px;
+  left: 450px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow", sans-serif;
+}
+
+.list-item:nth-child(3) {
+  position: fixed;
+  list-style-type: none;
+  top: 25px;
+  left: 550px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow", sans-serif;
+}
+
+.list-item:nth-child(4) {
+  position: fixed;
+  list-style-type: none;
+  top: 25px;
+  left: 650px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow", sans-serif;
+}
+
+.list-item:nth-child(5) {
+  position: fixed;
+  list-style-type: none;
+  top: 25px;
+  left: 750px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow", sans-serif;
+}
+
+.search-icon {
+  position: fixed;
+  top: 25px;
+  left: 950px;
+}
+.nav-button: {
+  position: fixed;
+  top: 25px;
+  left: 1000px;
+}
+.button-group {
+  position: fixed;
+  top: 25px;
+  left: 1010px;
+  background-clip: inherit;
+}
+.hero-heading {
+}
+.star {
+  position: fixed;
+  top: 100px;
+  left: 1200px;
+}
+
+.globe {
+  position: fixed;
+  top: 100px;
+  left: 600px;
+}
+.hero-heading {
+  position: fixed;
+  top: 200px;
+  left: 700px;
+}
+
+.hero-description {
+  position: fixed;
+  top: 250px;
+  left: 600px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button-email {
+  position: fixed;
+  top: 350px;
+  left: 700px;
+}
+
+.button-join {
+  position: fixed;
+  top: 350px;
+  left: 850px;
+  background-color: black;
+  color: blanchedalmond;
+}
+.contact-heading {
+  position: fixed;
+  top: 400px;
+  left: 800px;
+}
+
+.icons {
+  position: fixed;
+  top: 500px;
+  left: 700px;
+}
+img[alt="person-hero-iamge"] {
+  position: fixed;
+  top: 100px;
+  left: 00px;
+}
+
+.square {
+  position: fixed;
+  top: 400px;
+  left: 200px;
+}
+.container {
+  font-family: "Poppons & Orbitron";
+}
